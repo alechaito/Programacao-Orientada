@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1462493099 source:/home/alechaito/UFSC/Prog2/classData/main.cpp
+	<iostream>
+	"Date.h"
+
+1462492989 source:/home/alechaito/UFSC/Prog2/classData/Date.cpp
+	<iostream>
+	<iomanip>
+	"Date.h"
+
+1462492993 /home/alechaito/UFSC/Prog2/classData/Date.h
+

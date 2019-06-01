@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1460750822 source:/home/alechaito/UFSC/Prog2/time/main.cpp
+	<iostream>
+	"Time.h"
+
+1461085419 /home/alechaito/UFSC/Prog2/time/Time.h
+
+1461085362 source:/home/alechaito/UFSC/Prog2/time/Time.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+
